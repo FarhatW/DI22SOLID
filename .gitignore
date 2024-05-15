@@ -1,0 +1,14 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/DOTNET.TEMPLATE/.vs
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.BUSINESS/bin/Debug/net7.0
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.BUSINESS/obj
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.COMMON/bin/Debug/net7.0
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.COMMON/obj
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.DATAACCESS/obj
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.SERVICES/bin/Debug/net7.0
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.SERVICES/obj
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.WEBAPI/bin/Debug/net7.0
+/DOTNET.TEMPLATE/DOTNET.TEMPLATE.WEBAPI/obj
